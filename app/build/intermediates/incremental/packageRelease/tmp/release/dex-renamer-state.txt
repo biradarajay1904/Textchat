@@ -1,0 +1,4 @@
+#Mon Jul 03 21:04:08 IST 2023
+base.0=C\:\\Users\\Betaflux\\Textchat\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+renamed.0=classes.dex
+path.0=classes.dex
