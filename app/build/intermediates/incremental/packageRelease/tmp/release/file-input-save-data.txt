@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jul 03 21:04:09 IST 2023
+#Mon Jul 03 21:32:09 IST 2023
 0.base=C\:\\Users\\Betaflux\\Textchat\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
 0.path=classes.dex
 count=1
