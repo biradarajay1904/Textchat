@@ -1,6 +1,6 @@
 #Internal package file, do not edit.
-#Thu Jul 06 16:00:29 IST 2023
-0.base=C\:\\Users\\Betaflux\\Textchat\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+#Sat Jul 08 12:20:19 UTC 2023
+0.base=/root/Textchat/app/build/intermediates/dex/release/mergeDexRelease/out
 0.path=classes.dex
 count=1
 0.baseType=DIRECTORY
