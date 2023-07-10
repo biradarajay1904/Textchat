@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jul 08 12:20:19 UTC 2023
+#Mon Jul 10 13:48:14 UTC 2023
 0.base=/root/Textchat/app/build/intermediates/dex/release/mergeDexRelease/out
 0.path=classes.dex
 count=1
