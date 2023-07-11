@@ -1,4 +1,4 @@
-#Mon Jul 10 13:48:14 UTC 2023
+#Tue Jul 11 06:38:30 UTC 2023
 base.0=/root/Textchat/app/build/intermediates/dex/release/mergeDexRelease/out
 renamed.0=classes.dex
 path.0=classes.dex
